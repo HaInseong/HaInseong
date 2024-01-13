@@ -10,8 +10,7 @@
   
 - 📫 How to reach me **devinseong@gmail.com**
 
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FHaInseong&count_bg=%230089E3&title_bg=%230089E3&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
-
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fbead-pear-086.notion.site%2FInseong-Ha-ceea039a78154216bcef9472b10d76d9&count_bg=%230058EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <h3 align="left">Languages and Tools <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 <p align="left">
