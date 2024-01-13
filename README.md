@@ -59,7 +59,6 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
       alt="git" width="40" height="40" /> </a>
 </p>
-
 <h3 align="center">My github stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 <br />
  <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaInseong&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HaInseong" /></p> -->
