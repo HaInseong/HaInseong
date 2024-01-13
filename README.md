@@ -52,4 +52,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hainseong&show_icons=true&locale=en" alt="hainseong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hainseong&" alt="hainseong" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=hainseong&" alt="hainseong" /></p>
