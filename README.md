@@ -68,4 +68,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaInseong&theme=gotham" alt="HaInseong" width="50%" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaInseong&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HaInseong" width="50%" /></p>
 
-<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>😄</p>
+<h3 align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Feel free to reach out, I'm always up for making new connections! 😄</h3>
