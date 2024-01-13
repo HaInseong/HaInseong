@@ -5,8 +5,7 @@
 - 👩‍💻 All of my projects are available at [!@#!@%](!@#!@%)
 - 💬 Ask me about **java, spring and spring boot**
 - 📫 How to reach me **devinseong@gmail.com**
-
-<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="left">Languages and Tools<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 <p align="left">
   <!-- Back-End -->
