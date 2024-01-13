@@ -4,7 +4,7 @@
 <h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
 
 - 👩‍💻 All of my projects are available at [#](#)
-- 💬 Ask me about **react, vue.js and solidity**
+- 💬 Ask me about **java, spring and spring boot**
 - 📫 How to reach me **devinseong@gmail.com**
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasom222g&label=Profile%20views&color=0e75b6&style=flat" alt="inseong" /> </p>
