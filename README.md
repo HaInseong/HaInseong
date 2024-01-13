@@ -1,8 +1,7 @@
 ### About me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 <h1 align="left">Hello👋 I'm a developer who believes the sky is the limit!</h1>
-<h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<h3 align="left">I am working with the mission of change the world a better than yesterday! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 - 👩‍💻 All of my projects are available at [!@#!@%](!@#!@%)
 - 💬 Ask me about **java, spring and spring boot**
 - 📫 How to reach me **devinseong@gmail.com**
