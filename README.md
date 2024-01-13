@@ -4,17 +4,14 @@
 
 - 🏛️ Information Systems at University of Hanyang
 
-- 👩‍💻 All of my projects are available at [Notion](https://bead-pear-086.notion.site/Inseong-Ha-ceea039a78154216bcef9472b10d76d9?pvs=4)
+- 👩‍💻 All of my projects are available at [my Notion](https://bead-pear-086.notion.site/Inseong-Ha-ceea039a78154216bcef9472b10d76d9?pvs=4)
   
-- 💬 Ask me about **java, spring and spring boot**
+- 💬 Ask me about **Java, Spring and Spring Boot**
   
-- 📫 How to reach me **devinseong@gmail.com**
-
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fbead-pear-086.notion.site%2FInseong-Ha-ceea039a78154216bcef9472b10d76d9&count_bg=%230058EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+- 📫 How to reach me: **devinseong@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HaInseong&label=Profile%20views&color=0e75b6&style=flat" alt="HaInseong" /> </p>
 <h3 align="left">Languages and Tools <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 <p align="left">
-  
   <!-- Back-End -->
   <h4 align="left"><i>Back-End</i></h4>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
@@ -71,5 +68,4 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=HaInseong&show_icons=true&theme=gotham&locale=en" alt="HaInseong" width="50%" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaInseong&theme=gotham" alt="HaInseong" width="50%" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaInseong&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HaInseong" width="50%" /></p>
-
 <h3 align="center"><em>Feel free to reach out, I'm always up for making new connections!</em> 😄</h3>
