@@ -58,10 +58,10 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 </p>
 
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hainseong&show_icons=true&locale=en&layout=compact" alt="hainseong" /></p>
+<h3 align="left">📈 my github stats</h3>
+<br />
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hainseong&show_icons=true&theme=gotham&locale=en" alt="hainseong" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hainseong&theme=gotham" alt="hainseong" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hainseong&show_icons=true&locale=en" alt="hainseong" /></p>
-</p>
 
 
