@@ -7,6 +7,8 @@
 - 💬 Ask me about **react, vue.js and solidity**
 - 📫 How to reach me **devinseong@gmail.com**
 
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasom222g&label=Profile%20views&color=0e75b6&style=flat" alt="inseong" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Back-End -->
