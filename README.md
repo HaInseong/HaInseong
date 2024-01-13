@@ -8,7 +8,7 @@
   
 - 📫 How to reach me **devinseong@gmail.com**
   
-<h3 align="left">Languages and Tools<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
+<h3 align="left">Languages and Tools <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 <p align="left">
   
   <!-- Back-End -->
@@ -60,7 +60,7 @@
       alt="git" width="40" height="40" /> </a>
 </p>
 
-<h3 align="left">My github stats <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
+<h3 align="left">My github stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 <br />
  <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaInseong&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HaInseong" /></p> -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HaInseong&show_icons=true&theme=gotham&locale=en" alt="HaInseong" /></p>
