@@ -1,4 +1,4 @@
-### About me
+### About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <h1 align="left">Hello👋 I'm a developer who believes the sky is the limit!</h1>
 <h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
@@ -8,10 +8,6 @@
 - 📫 How to reach me **devinseong@gmail.com**
 
 <a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasom222g&label=Profile%20views&color=0e75b6&style=flat" alt="inseong" /> </p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
