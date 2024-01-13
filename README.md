@@ -1,6 +1,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
   <!-- Back-End -->
   <h4 align="left">Back-End:</h4>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
@@ -48,9 +47,10 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 </p>
 
+<p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hainseong&show_icons=true&locale=en&layout=compact" alt="hainseong" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hainseong&show_icons=true&locale=en" alt="hainseong" /></p>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hainseong&show_icons=true&locale=en" alt="hainseong" /></p>
 
