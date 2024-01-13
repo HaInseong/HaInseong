@@ -1,6 +1,6 @@
 ### About me
 
-<h1 align="left">Hi 👋 This is Dasom Kim, a developer who codes dreams.</h1>
+<h1 align="left">Hello 👋 I'm Inseong Ha, a developer who believes 'The sky is the limit'.</h1>
 <h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
 
 - 👩‍💻 All of my projects are available at [!@#!@%](!@#!@%)
