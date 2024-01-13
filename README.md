@@ -1,6 +1,8 @@
 ### About me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <h1 align="left">Hello👋 I'm a developer who believes the sky is the limit!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<h3 align="left">I am working<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with the mission of change the world a better than yesterday!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h3 align="left">I am working<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with the mission of change the world a better than yesterday!</h3><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+- 🏛️ Information Systems at University of Hanyang
 
 - 👩‍💻 All of my projects are available at [!@#!@%](!@#!@%)
   
@@ -15,7 +17,7 @@
 <p align="left">
   
   <!-- Back-End -->
-  <h4 align="left">Back-End</h4>
+  <h4 align="left"><em>Back-End</em></h4>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a>
@@ -37,7 +39,7 @@
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a>
   <!-- Front-End -->
-  <h4 align="left">Front-End</h4>
+  <h4 align="left"><em>Front-End</em></h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a>
@@ -57,7 +59,7 @@
       src="https://bestofjs.org/logos/vuetify.svg" 
       alt="vuetify" width="40" height="40"/> </a> 
   <!-- Collaboration Tools -->
-  <h4 align="left">Collaboration</h4>
+  <h4 align="left"><em>Collaboration</em></h4>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img 
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
       alt="figma" height="30"/> </a>
@@ -71,4 +73,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaInseong&theme=gotham" alt="HaInseong" width="50%" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaInseong&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HaInseong" width="50%" /></p>
 
-<h3 align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Feel free to reach out, I'm always up for making new connections! 😄</h3>
+<h3 align="center">Feel free to reach out, I'm always up for making new connections! 😄</h3>
