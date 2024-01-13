@@ -10,7 +10,7 @@
 <h3 align="left">Languages and Tools<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 <p align="left">
   <!-- Back-End -->
-  <h4 align="left">Back-End</h4>
+  <!-- <h4 align="left">Back-End</h4> -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a>
@@ -33,7 +33,7 @@
   </a>
   
   <!-- Front-End -->
-  <h4 align="left">Front-End</h4>
+  <!-- <h4 align="left">Front-End</h4> -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a>
@@ -51,7 +51,7 @@
       alt="bootstrap" width="40" height="40" /> </a>
   
   <!-- Collaboration Tools -->
-  <h4 align="left">Collaboration</h4>
+  <!-- <h4 align="left">Collaboration</h4> -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img 
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
       alt="figma" height="30"/> </a>
