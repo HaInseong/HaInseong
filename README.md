@@ -3,7 +3,9 @@
 <h3 align="left">I am working<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with the mission of change the world a better than yesterday!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 👩‍💻 All of my projects are available at [!@#!@%](!@#!@%)
+  
 - 💬 Ask me about **java, spring and spring boot**
+  
 - 📫 How to reach me **devinseong@gmail.com**
 <h3 align="left">Languages and Tools<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 <p align="left">
