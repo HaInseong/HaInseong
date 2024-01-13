@@ -63,5 +63,11 @@
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HaInseong&show_icons=true&theme=gotham&locale=en" alt="hainseong" /></p>
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaInseong&theme=gotham" alt="hainseong" /></p>
 
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hainseong&show_icons=true&locale=en&layout=compact" alt="hainseong" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hainseong&show_icons=true&locale=en" alt="hainseong" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hainseong&" alt="hainseong" /></p>
+
 
 
