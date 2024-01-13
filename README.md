@@ -66,4 +66,4 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=HaInseong&show_icons=true&theme=gotham&locale=en" alt="HaInseong" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaInseong&theme=gotham" alt="HaInseong" /></p>
 
-<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
+<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>😄</p>
