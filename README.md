@@ -4,7 +4,7 @@
 
 - 🏛️ Information Systems at University of Hanyang
 
-- 👩‍💻 All of my projects are available at [https://bead-pear-086.notion.site/Inseong-Ha-ceea039a78154216bcef9472b10d76d9?pvs=4](https://bead-pear-086.notion.site/Inseong-Ha-ceea039a78154216bcef9472b10d76d9?pvs=4)
+- 👩‍💻 All of my projects are available at [Notion](https://bead-pear-086.notion.site/Inseong-Ha-ceea039a78154216bcef9472b10d76d9?pvs=4)
   
 - 💬 Ask me about **java, spring and spring boot**
   
