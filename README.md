@@ -8,7 +8,7 @@
   
 - 💬 Ask me about **Java, Spring and Spring Boot**
   
-- 📫 How to reach me: **devinseong@gmail.com**
+- 📫 How to reach me: **inforsysis@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HaInseong&label=Profile%20views&color=0e75b6&style=flat" alt="HaInseong" /> </p>
 <h3 align="left">Languages and Tools <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 <p align="left">
