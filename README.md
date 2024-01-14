@@ -72,7 +72,7 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
       alt="git" width="40" height="40" /> </a>
 </p>
-<h1 align="center">My github stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
+<h1 align="center">My github contributions<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 <br />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaInseong&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HaInseong" width="35%" /></p>
 <!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=HaInseong&show_icons=true&theme=gotham&locale=en" alt="HaInseong" width="60%" /></p> -->
