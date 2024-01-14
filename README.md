@@ -22,18 +22,27 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
       width="40" height="40" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" 
+      alt="redis" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker" width="40" height="40" /> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img 
+      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
+      alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img 
+      src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" 
+      alt="kafka" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-      width="40" height="40" /> </a>
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" 
+      alt="nginx" width="40" height="40" /> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+      alt="postman" width="40" height="40" /> </a>
   <!-- Front-End -->
   <h4 align="left"><i>Front-End</i></h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -65,7 +74,7 @@
 </p>
 <h1 align="center">My github stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 <br />
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=HaInseong&show_icons=true&theme=gotham&locale=en" alt="HaInseong" width="60%" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaInseong&theme=gotham" alt="HaInseong" width="60%" /></p>
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaInseong&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HaInseong" width="50%" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaInseong&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HaInseong" width="35%" /></p>
+<!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=HaInseong&show_icons=true&theme=gotham&locale=en" alt="HaInseong" width="60%" /></p> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaInseong&theme=gotham" alt="HaInseong" width="50%" /></p>
 <h3 align="center"><em>Feel free to reach out, I'm always up for making new connections!</em> 😄</h3>
